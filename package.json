@@ -1,0 +1,22 @@
+{
+  "name": "byufilterapp",
+  "version": "1.0.0",
+  "description": "Off-Campus Housing Filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "less": "^2.7.2",
+    "mongodb": "^2.2.22",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1"
+  }
+}
